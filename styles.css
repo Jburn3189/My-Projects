@@ -1,0 +1,104 @@
+#header {
+  padding-top: 75px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4.6em;
+}
+
+h3{
+  padding-top:45px;
+  padding-bottom:15px;
+  font-family:'Montserrat',sans-serrif;
+  font-size:2.2em;
+  vertical-align:bottom;
+}
+
+h4{
+  font-family: 'Montserrat', sans-serif;
+  font-size:1.5em;
+}
+
+img{
+  vertical-align:top;
+  margin-top:20px;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size:1em;
+}
+
+.temperature {
+  text-align: center;
+  padding-top: 30px;
+}
+
+#temp {
+  font-family: 'Monsterrat', sans-serif;
+  font-size: 3.8em;
+}
+
+.weather {
+  text-align: center;
+}
+
+.precip {
+  font-size: 2.5em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-repeat: no-repeat;
+  background: #c9dbe9;
+  background: -linear-gradient(top, #c9dbe9 0%, #fff 100%);
+  background: -webkit-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+  background: -moz-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+  background-size:100%;
+}
+
+.button {
+  text-decoration: none;
+  border: none;
+  background-color: rgb(120, 180, 200);
+  border-radius: 40px;
+  font-size: 4em;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  margin-bottom:90px;
+  margin-top:40px;
+  outline: none;
+}
+
+.button:hover {
+  background-color: rgb(160, 220, 250);
+}
+.forecastTable{
+  background-color:none;
+  text-align:center;
+}
+
+.forecastDay{
+  border:solid;
+  border-color:rgb(120, 180, 200);
+  background-color:none;
+  height:275px;
+  width:165px;
+  display:inline-block;
+  margin-left:6px;
+  margin-right:6px;
+  margin-top:20px;
+  vertical-align:top;
+}
+
+footer{
+  background-color:rgb(120, 180, 200);
+  font-family:'Montserrat',sans-serif;
+  font-size: 1.2em;
+  padding-top:40px;
+  padding-bottom:30px;
+  margin-top:75px;
+  padding-left:50px;
+}
